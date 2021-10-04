@@ -1,6 +1,17 @@
 
-      table,
+      html, table,
       th,
       td {
         border: 1px solid black;
       }
+
+      .forms{
+          display: flex;
+          margin-left: 40px;
+          margin-right: 40px
+      }
+      .button{
+            text-align: center;
+          
+      }
+      
